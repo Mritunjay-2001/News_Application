@@ -15,5 +15,3 @@
 <img align="left" width="320" height="700" src="https://github.com/rockysushant/News-Applictaion/assets/99118017/2a200e1e-a548-4a75-94eb-77b8b2822612">
 <img align="right" width="320" height="700" src="https://github.com/rockysushant/News-Applictaion/assets/99118017/2542d9e5-b3c9-45ce-8c89-4d938e8ce176">
 
-
-<img align="left" width="320" height="700" src="https://github.com/rockysushant/News-Applictaion/assets/99118017/2424ef54-862b-4557-ae18-8581ea068721">
